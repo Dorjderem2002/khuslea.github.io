@@ -19963,8 +19963,7 @@ _.aq$=e
 _.a=null
 _.b=f
 _.c=null},
-acc:function acc(a,b){this.a=a
-this.b=b},
+acc:function acc(a){this.a=a},
 yf:function yf(a,b,c){this.c=a
 this.d=b
 this.a=c},
@@ -44107,7 +44106,7 @@ k(a,b){if(b==null)return!1
 if(J.P(b)!==A.y(this))return!1
 return b instanceof A.q7&&b.a===this.a&&b.b===this.b},
 gq(a){return A.K(this.a,this.b,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a)},
-i(a){return'NetworkImage("'+this.a+'", scale: '+this.b+")"}}
+i(a){return'NetworkImage("'+this.a+'", scale: '+A.h(this.b)+")"}}
 A.a_x.prototype={
 $2(a,b){this.a.J(0,new A.ic(a,b))},
 $S:210}
@@ -67359,13 +67358,13 @@ A.FF.prototype={
 I(a){return B.FI}}
 A.r0.prototype={}
 A.nP.prototype={
-aa(){var s=null,r=t.s,q=A.a(["1_eI-JgU3avnSv3WEzIlMhfIgGAPpfugZ","1Ye0Ij3lxdFiUkZSoLl4ngCK0Oele3Ke-","1_QCQS-2Oy0cPKc6NGZQA4N0CMdINGbPm","1_OAmTb_zt1a_NKFniPfkLMO85qTRWjYl","1_K94ostY6Up2bca9VH9k4ApbfOfxKoYZ","1_3IayVvFPf2iPBA55zfpTBL3yjneBs0D","1Zum_iGxu3aVtfiPfupPCxoqV577jiGHR","1ZnS3-M5TtX7ZO0KCR6GY60OF6iIk3Zmk","1Zb1hQIZ15ew-An-hlQfEj13eFgS3TePc","1ZXbkEy12agio_Fpzjzo9jEjOgM4x-GYY","1ZbD_9gQfHqJ4GvBc6xndY8sf0_drQVUf","1ZSybZt-J8Q0FHbPl6TUnVx19Rg74jTPr","1ZS-6AfQYzLJ0RDbcHOypiCN6urLy5dA0","1ZNDAm3ghEcMQyEHk-junhnZoE7JRoz2B","1ZIxJ8SswZc8zasCeurnPOMX4e8lLF2l2","1Yi3X_T_eotv8uIGUfhaKHtf5OXoCkPK8","1YnvMoXd_kPQmOLtyiOJCy0ZgpWyYb0D1","1Z8yStRNvM6JTRSzqa55zMPJD4DwSjOL4","1YoVuxmyqlTH8OiAlrRs56TSf6GBeBye0","1YrRBNT9awOfSMX-Kef02hIeJH6UyMUCy","1ZAAepqX50HcjwMatdjKoI7dorGI0RZA1"],r)
+aa(){var s=null,r=t.s,q=A.a(["https://i.ibb.co/12S03d4/IMG-0010.jpg","https://i.ibb.co/y48m6XF/IMG-0016.jpg","https://i.ibb.co/Y8y3y7j/IMG-0046.jpg","https://i.ibb.co/nPTwDyx/IMG-0059.jpg","https://i.ibb.co/bsY12pb/IMG-0074.jpg","https://i.ibb.co/86QThfK/IMG-20211008-081100.jpg","https://i.ibb.co/kqRp9SF/IMG-20220305-134001.jpg","https://i.ibb.co/XCsZWRL/IMG-20220605-WA0015.jpg","https://i.ibb.co/mTbFwFY/IMG-20220705-WA0032.jpg","https://i.ibb.co/4KgKhMd/IMG-20220815-WA0008.jpg","https://i.ibb.co/7CZ9Wdw/IMG20220630152220.jpg","https://i.ibb.co/8gfZtR7/IMG20220705125606-1.jpg","https://i.ibb.co/Jpmm1B7/IMG20220707172437.jpg","https://i.ibb.co/VL60Wg4/IMG20220707172506.jpg","https://i.ibb.co/Nx5shPt/Screenshot-2022-09-30-16-40-11-95-e2d5b3f32b79de1d45acd1fad96fbb0f.jpg","https://i.ibb.co/CMfhTcT/Screenshot-2022-09-30-16-40-17-71-e2d5b3f32b79de1d45acd1fad96fbb0f.jpg","https://i.ibb.co/5vsfmHM/Screenshot-2022-09-30-16-40-33-30-e2d5b3f32b79de1d45acd1fad96fbb0f.jpg","https://i.ibb.co/sjhFhKy/Screenshot-2022-09-30-16-40-49-70-e2d5b3f32b79de1d45acd1fad96fbb0f.jpg","https://i.ibb.co/dQ5rsFQ/Screenshot-2022-09-30-16-40-56-13-e2d5b3f32b79de1d45acd1fad96fbb0f.jpg","https://i.ibb.co/m6dbL6T/Screenshot-2022-09-30-16-41-01-77-e2d5b3f32b79de1d45acd1fad96fbb0f.jpg","https://i.ibb.co/ZzqYrsL/WIN-20220319-09-22-11-Pro.jpg"],r)
 r=A.a(["Utsaa l oroldoh huseltei","Hoyulaa bas neg yum zuutseen","aimr goy udruud bsishu","zulzaga","bur zulzaga","iim l yum hiideg bsanda chi","yu uzuljisin boldo, coffee ntr bas uutsaan","ih l jargaltai haragdjishu (oroin tged evguitsen bdagda)","Gunj n yumuda","toglii ged guigad bhar n toglulsin","lol","huurhun shu","ter amaa yajambde huhed n","camera ntr n ch bas yuvde haha, jargaltai nuugdajgag n","aay","goy camerni zayagui l yumda","ter nudiig n ee","uurtai tontgor","zambuulin zulzaga","yu hijisn boldo hoyula","havar bur huiten bhad bnashd te"],r)
 return new A.Ob(q,r,new A.Gj(new A.pD(A.alk(s,s,new A.u3("assets/.png",s,s)),s),B.EF,7,15,10,50,0,0.1,0.4,0.2,20),s,s,B.j)}}
 A.Ob.prototype={
 I(a){var s=this,r=new A.a0H()
 r.SK(s.f,null)
-return A.a2v(new A.tP(A.xC(!0,new A.cF(B.mt,A.ak2(new A.acc(s,"https://drive.google.com/uc?export=view&id="),s.iY(s.a.c),t.eJ),null),!0),s,r,null))},
+return A.a2v(new A.tP(A.xC(!0,new A.cF(B.mt,A.ak2(new A.acc(s),s.iY(s.a.c),t.eJ),null),!0),s,r,null))},
 iY(a){return this.a8Y(a)},
 a8Y(a){var s=0,r=A.a_(t.eJ),q,p,o,n,m,l,k,j,i,h,g,f,e,d
 var $async$iY=A.a0(function(b,c){if(b===1)return A.X(c,r)
@@ -67399,23 +67398,23 @@ break
 case 1:return A.Y(q,r)}})
 return A.Z($async$iY,r)}}
 A.acc.prototype={
-$2(a,b){var s,r,q,p,o,n,m,l,k=null,j=b.b
-if(j!=null){s=A.qF(a).te(!1)
+$2(a,b){var s,r,q,p,o,n,m,l=null,k=b.b
+if(k!=null){s=A.qF(a).te(!1)
 r=t.D
 q=A.a([],r)
-for(p=this.b,o=this.a,n=o.d,m=o.e,l=0;l<21;++l)q.push(A.kB(A.a([new A.v4(1,B.fK,new A.pD(A.alk(k,k,new A.q7(p+n[l],1,k)),k),k),new A.oT(B.F,k,k,A.cK(m[l],k,k,k,k,k,k),k)],r),B.ak,B.b0,B.an))
-p=$.apQ()
-q=A.fn(new A.qg(B.ad,p,k,k,new A.a5n(q,A.aE([null,0],t.LO,t.S)),k),500,k)
-p=j.a
-p===$&&A.b()
-n=j.b
-n===$&&A.b()
-o.a.toString
-o=j.c
+for(p=this.a,o=p.d,n=p.e,m=0;m<21;++m)q.push(A.kB(A.a([new A.v4(1,B.fK,new A.pD(A.alk(l,l,new A.q7(o[m],0.5,l)),l),l),new A.oT(B.F,l,l,A.cK(n[20-m],l,l,l,l,l,l),l)],r),B.ak,B.b0,B.an))
+o=$.apQ()
+q=A.fn(new A.qg(B.ad,o,l,l,new A.a5n(q,A.aE([null,0],t.LO,t.S)),l),300,l)
+o=k.a
 o===$&&A.b()
-j=j.d
-j===$&&A.b()
-return A.agW(s,A.alw(A.kB(A.a([B.LF,B.GV,q,new A.yf(p,n,k),new A.yf(o,j,k)],r),B.ak,B.b0,B.an),B.ls))}else if(b.c!=null)return B.wa
+n=k.b
+n===$&&A.b()
+p.a.toString
+p=k.c
+p===$&&A.b()
+k=k.d
+k===$&&A.b()
+return A.agW(s,A.alw(A.kB(A.a([B.LF,B.GV,q,new A.yf(o,n,l),new A.yf(p,k,l)],r),B.ak,B.b0,B.an),B.ls))}else if(b.c!=null)return B.wa
 else return B.fd},
 $S:418}
 A.yf.prototype={
